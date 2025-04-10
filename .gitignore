@@ -1,0 +1,10 @@
+# Ignore node_modules and dist for Angular
+/frontend-angular/node_modules/
+/frontend-angular/dist/
+
+# Ignore bin and obj for .NET
+/backend-dotnet/bin/
+/backend-dotnet/obj/
+
+# Ignore environment files
+**/environment*.ts
